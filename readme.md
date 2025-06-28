@@ -6,7 +6,6 @@
   
   <p>
     <img src="https://img.shields.io/badge/Python-3.13.2+-blue?logo=python&logoColor=white" alt="Python version">
-    <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
     <img src="https://img.shields.io/badge/Platform-CLI-lightgrey" alt="Platform">
   </p>
 </div>
