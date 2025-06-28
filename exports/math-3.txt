@@ -1,0 +1,14 @@
+==================================================
+                Gamma Task Export
+                Generated: 2025-06-28 20:47:41
+==================================================
+
+🆔 ID: 1
+📌 Name: Math - 3
+📝 Description: I have to complete 5 chapter today.
+🔴 Priority: High
+🕒 Status: Pending
+📅 Due Date: 2025-06-29
+🕒 Created: 2025-06-28 20:45:54
+----------------------------------------
+

@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Math - 3",
+        "description": "I have to complete 5 chapter today.",
+        "due_date": "2025-06-29",
+        "priority": "high",
+        "status": "pending",
+        "created_at": "2025-06-28 20:45:54",
+        "completed_at": null
+    }
+]
