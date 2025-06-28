@@ -50,7 +50,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gamma-task-manager.git
+git clone https://github.com/Asraf06/Gamma-Task.git
 
 # Navigate to project
 cd gamma-task-manager
@@ -121,13 +121,7 @@ exports/             # Export directory
 5. Open a Pull Request
 ```
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 <div align="center">
   Made with ❤️ and Python 🐍
 </div>
-```
+
