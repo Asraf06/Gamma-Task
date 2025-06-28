@@ -94,7 +94,7 @@ exports/             # Export directory
 ```plaintext
 📝 Enter task name: Finish Project
 📄 Enter description: Complete docs
-📅 Enter due date (YYYY-MM-DD): 2023-12-31
+📅 Enter due date (YYYY-MM-DD): 2025-06-28
 🔝 Enter priority (high/medium/low): high
 
 ✅ Task 'Finish Project' added!
