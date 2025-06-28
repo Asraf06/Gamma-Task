@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://imgur.com/iL9NltQ" width="600" alt="Gamma Task Manager Demo">
+  <img src="https://i.imgur.com/iL9NltQ.jpeg" width="600" alt="Gamma Task Manager Demo">
 </div>
 
 ## 🚀 Features
